@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arash-aryapour/FinAnalyzer/main/assets/logo.png" alt="FinAnalyzer Logo" width="150">
+  <img src="https://raw.githubusercontent.com/arash-aryapour/FinAnalyzer/main/assets/logo.png" alt="FinAnalyzer Logo" width="250">
 
   <h1>FinAnalyzer</h1>
 
@@ -20,16 +20,6 @@
     </a>
   </p>
 
-  <p>
-    <a href="#features">ویژگی‌ها</a> •
-    <a href="#demo">دمو</a> •
-    <a href="#installation">نصب</a> •
-    <a href="#usage">استفاده</a> •
-    <a href="#tech-stack">تکنولوژی</a> •
-    <a href="#roadmap">نقشه راه</a> •
-    <a href="#contributing">مشارکت</a> •
-    <a href="#license">مجوز</a>
-  </p>
 </div>
 
 ---
