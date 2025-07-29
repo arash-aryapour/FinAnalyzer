@@ -83,8 +83,6 @@ FinAnalyzer/
 │   ├── __init__.py
 │   ├── currency.py        # تبدیل ارز
 │   └── notifications.py   # سیستم اعلان‌ها
-├── assets/
-│   └── logo.png           # لوگو (اختیاری)
 ├── data/
 │   └── sample_data.csv    # داده‌های نمونه
 ├── requirements.txt       # وابستگی‌ها
